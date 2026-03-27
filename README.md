@@ -1,16 +1,81 @@
-##  👋 Hi,I'm Leela Krishnaveni Sidda
+##  👋  Hi, I'm Leela Krishnaveni Sidda
 
-<!--
-**s-leelakrishnaveni/s-leelakrishnaveni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Graduate at JNTUK
+💻 Aspiring Full Stack Developer | Python Enthusiast | web Development
+🔐 Interested in Cyber Security & Cloud Computing
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on python internship...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+- 🎓 Completed Engineering at Adarsh College of Engineering( JNTUK)
+- 💡 Completed Full Stack Developer Course
+- 🐍 Currently working on a Python Internship Project
+- 🔐 Completed Cyber Security Simulation from HP Life
+- ☁ Certified in AWS Cloud Practitioner Essentials (Simplilearn)
+
+---
+
+🛠 Skills
+
+💻 Programming Languages
+
+- Python
+- HTML, CSS, JavaScript
+
+🧰 Frameworks & Tools
+
+- Tkinter (GUI Development)
+- SQLite3 (Database)
+- Git & GitHub
+
+🐍 Python Libraries
+
+- Tkinter
+- SQLite3
+- os
+- random
+- datetime
+
+---
+
+📜 Certifications
+
+- 🏅 Cyber Security Simulation – HP Life
+- ☁ AWS Cloud Practitioner Essentials – Simplilearn
+- 💻 Full Stack Developer Course - JSpiders
+
+---
+
+💼 Current Work
+
+- 👩‍💻 Working on Python Internship Projects
+- 🔐 Developing Password Manager using Tkinter & SQLite
+- Currently learning ISTQB(Software Testing Certification)
+
+---
+
+📊 GitHub Stats
+
+(You can add stats later using GitHub badges)
+
+---
+
+🎯 Career Goals
+
+- Become a Full Stack Developer
+- Build secure and scalable applications
+- Gain expertise in Cyber Security and Cloud Technologies
+
+---
+
+📫 Connect with Me
+
+- 📧 Email: s.leelakrishnaveni@gmail.com
+- 💼 LinkedIn: your-linkedin-profile
+
+---
+
+⭐ Fun Fact
+
+I love building real-world projects and learning new technologies every day 🚀
