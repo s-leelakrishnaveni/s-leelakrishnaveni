@@ -32,10 +32,21 @@
 🐍 Python Libraries
 
 - Tkinter
-- SQLite3
 - os
 - random
 - datetime
+- hashlib,cryptography
+- Numpy,Pandas,Matplotlib
+
+🗄️  Database Libraries
+🔹 SQLite (sqlite3 in Python)
+Used for storing data locally
+
+🌐 Web Development Libraries
+🔹 Django
+Used to build full websites
+🔹 Flask
+Lightweight web framework (easy to learn)
 
 ---
 
@@ -44,6 +55,7 @@
 - 🏅 Cyber Security Simulation – HP Life
 - ☁ AWS Cloud Practitioner Essentials – Simplilearn
 - 💻 Full Stack Developer Course - JSpiders
+- Data Science with Python Certification-Simplilearn
 
 ---
 
