@@ -11,7 +11,7 @@
 - 🎓 Completed Engineering at Adarsh College of Engineering( JNTUK)
 - 💡 Completed Full Stack Developer Course
 - 🐍 Currently working on a Python Internship Project
-- 🔐 Completed Cyber Security Simulation from HP Life
+- 🔐 Completed Cyber Security Simulation from Forage
 - ☁ Certified in AWS Cloud Practitioner Essentials (Simplilearn)
 
 ---
@@ -52,7 +52,7 @@ Lightweight web framework (easy to learn)
 
 📜 Certifications
 
-- 🏅 Cyber Security Simulation – HP Life
+- 🏅 Cyber Security Simulation – Forage
 - ☁ AWS Cloud Practitioner Essentials – Simplilearn
 - 💻 Full Stack Developer Course - JSpiders
 - Data Science with Python Certification-Simplilearn
